@@ -1,8 +1,8 @@
-# 721, A custom card game created by Calexil
+# 721™, A custom card game created by Calexil
 
-## About 721 the Card Game.
+## About 721™ the Card Game.
 
-**721** is a custom card game played with an standard 54 card deck (including the two jokers).
+**721™** is a custom card game played with an standard 54 card deck (including the two jokers).
 
 The objective of the game is simple, score the most points before the deck runs out. 
 
@@ -19,9 +19,9 @@ Play continues until no cards are left in the deck and the player with the highe
 For a full rules breakdown Please see the [comprehensive ruleset here](https://github.com/calexil/721/blob/main/Rules.md)
 
 
-## About 721 the Program.
+## About 721™ the Program.
 
-**721** Is a visual frontend program written in **Python** using the **Pyglet** extension library and decorated by **Glade** using GTK 3.0
+**721™** Is a visual frontend program written in **Python** using the **Pyglet** extension library and decorated by **Glade** using GTK 3.0
 
 It is currently in development.
 
