@@ -10,7 +10,7 @@ For a full rules breakdown Please see the [comprehensive ruleset here](https://g
 
 ## About 721 the Program.
 
-**721** Is a visual frontend program written in **Python** and decorated by **Glade** using GTK 3.0
+**721** Is a visual frontend program written in **Python** using the **Pyglet** extension library and decorated by **Glade** using GTK 3.0
 
 It is currently in development.
 

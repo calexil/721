@@ -14,8 +14,12 @@
 * Scoring 
 * Save/Load
 
-## Sourcing
-
-* test2
-
 ## Code
+
+* Create the main loop
+* Define the deck
+* Define the players and their hands
+* Store the status of the deck
+* Store the status of the players hands
+* Calculate the current score
+* Display the remaining and played cards
